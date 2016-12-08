@@ -129,8 +129,9 @@
           mother : {
             height: null,
             isBio : false
-      }
-    };
+			}
+		}
+	}
   }
 
   function getBloodPressureValue(BPObservations, typeOfPressure){
